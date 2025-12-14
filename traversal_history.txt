@@ -130,3 +130,36 @@
 ⏱️  Execution Time: 0.000061 seconds
 ======================================================================
 
+======================================================================
+📅 Date/Time: 2025-11-18 19:46:34
+👤 User: Fezan
+🔍 Algorithm: BFS
+🚀 Start: Lab → 🎯 Goal: Gate
+👣 Visited Nodes: Lab → Library → Stadium → Gate → Cafeteria → Dormitory
+✅ Path Found: Lab → Gate
+💰 Total Cost: 6
+⏱️  Execution Time: 0.000060 seconds
+======================================================================
+
+======================================================================
+📅 Date/Time: 2025-11-18 19:46:34
+👤 User: Fezan
+🔍 Algorithm: DFS
+🚀 Start: Lab → 🎯 Goal: Gate
+👣 Visited Nodes: Lab → Library → Cafeteria → Dormitory → Stadium → Gate
+✅ Path Found: Lab → Library → Cafeteria → Dormitory → Stadium → Gate
+💰 Total Cost: 16
+⏱️  Execution Time: 0.000050 seconds
+======================================================================
+
+======================================================================
+📅 Date/Time: 2025-11-18 19:46:34
+👤 User: Fezan
+🔍 Algorithm: UCS
+🚀 Start: Lab → 🎯 Goal: Gate
+👣 Visited Nodes: Lab → Stadium → Gate
+✅ Path Found: Lab → Stadium → Gate
+💰 Total Cost: 3
+⏱️  Execution Time: 0.000045 seconds
+======================================================================
+
